@@ -1,2 +1,5 @@
-# codeigniter-oktianapp
+# My Project
 OktianApp Site Code
+
+
+## Codeigniter for Very First Setup
